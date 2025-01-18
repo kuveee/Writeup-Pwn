@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="something.svg"
+   inkscape:export-filename="something.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52661996"
+     inkscape:cx="4.7472565"
+     inkscape:cy="560.17626"
+     inkscape:window-width="1910"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1292">
+      <stop
+         style="stop-color:#ed96ee;stop-opacity:1;"
+         offset="0"
+         id="stop1288" />
+      <stop
+         style="stop-color:#a0ef9d;stop-opacity:1;"
+         offset="1"
+         id="stop1290" />
+    </linearGradient>
+    <rect
+       x="313.25217"
+       y="710.09685"
+       width="873.42102"
+       height="225.99769"
+       id="rect1234" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1018">
+      <stop
+         style="stop-color:#5629ff;stop-opacity:1;"
+         offset="0"
+         id="stop1014" />
+      <stop
+         style="stop-color:#47c679;stop-opacity:1;"
+         offset="1"
+         id="stop1016" />
+    </linearGradient>
+    <rect
+       x="176.50893"
+       y="372.13298"
+       width="510.81221"
+       height="201.27626"
+       id="rect113" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1018"
+       id="linearGradient1020"
+       x1="175.72852"
+       y1="422.125"
+       x2="576.80664"
+       y2="422.125"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1292"
+       id="linearGradient1294"
+       x1="320.06445"
+       y1="760.72266"
+       x2="1019.9707"
+       y2="760.72266"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#eed996;fill-opacity:1;stroke:#000000;stroke-width:0.384447;stroke-opacity:1"
+       d="m 198.37448,84.919091 c -39.10228,11.842502 -59.86645,1.344285 -109.235583,28.282999 -33.089022,18.05533 -75.436693,75.62672 -75.436693,75.62672 0,0 62.520344,-4.52784 113.328886,-32.58638 36.2865,-20.03887 71.34339,-71.323339 71.34339,-71.323339 z"
+       id="path1078"
+       sodipodi:nodetypes="cscsc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.0339927,11.558312)"
+       id="text111"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect113);display:inline;fill:url(#linearGradient1020);fill-opacity:1;stroke:#000000;stroke-opacity:1"><tspan
+         x="176.50977"
+         y="457.07031"
+         id="tspan2084"><tspan
+           style="font-style:italic;font-weight:bold;-inkscape-font-specification:'sans-serif Bold Italic'"
+           id="tspan2082">TSG CTF</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-69.327793,-47.226799)"
+       id="text1232"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';white-space:pre;shape-inside:url(#rect1234);display:inline;fill:url(#linearGradient1294);fill-opacity:1;stroke:#000000;stroke-opacity:1"><tspan
+         x="313.25195"
+         y="795.03516"
+         id="tspan2086">VULNERABLE</tspan></text>
+  </g>
+</svg>
