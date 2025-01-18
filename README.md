@@ -1,3 +1,3 @@
 # Writeup-Pwn
 
-read more here : https://hackmd.io/?nav=overview
+read more here : https://hackmd.io/@kuvee
